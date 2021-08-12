@@ -1,4 +1,4 @@
-const scriptUrl = '//editor.unlayer.com/embed.js?2';
+const scriptUrl = 'https://editor.unlayer.com/embed.js?2';
 const callbacks = [];
 let loaded = false;
 
